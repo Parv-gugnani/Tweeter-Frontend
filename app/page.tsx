@@ -4,7 +4,7 @@ import { Sidebar } from "./sidebar";
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen bg-gray-900 text-white">
+    <div className="flex px-4 py-2 min-h-screen bg-black text-white">
       <div className="w-1/5">
         <Sidebar />
       </div>
